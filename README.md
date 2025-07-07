@@ -1,13 +1,8 @@
 # About Me O(∩_∩)O
 
 <h4 style="font-size:15px">Hi 👋, I'm Yosef! I'm a passionate backend developer.</h4>
-What would you be interested in:
+📫 How to reach me **yosef.fnj@gmail.com**
 
-- 👨‍💻 All of my projects are available at [No Portfolio Yet]
-
-- 📫 How to reach me **yosef.fnj@gmail.com**
-
-- 📄 Know about my experiences in [No Resume Yet]
 <br/>
 
 # Tech Stack ᓚᘏᗢ :
